@@ -7,3 +7,17 @@ qdrant-client
 python-dotenv
 pytest
 httpx
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn
+lightgbm==4.6.0
+joblib
+mlflow
+matplotlib
+ortools>=9.10,<10
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+httpx>=0.27.0
+python-dotenv>=1.0.0
+langchain-ollama

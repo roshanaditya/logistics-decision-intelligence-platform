@@ -1,0 +1,13 @@
+[
+  "distance_km",
+  "weight_kg",
+  "volume_m3",
+  "fuel_index",
+  "month",
+  "weekend_pickup",
+  "carrier",
+  "transport_mode",
+  "origin_region",
+  "destination_region",
+  "urgency"
+]
